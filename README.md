@@ -32,4 +32,4 @@ Dimension Table: DoctorData
 Join Key: DoctorID
 
 This structure supports efficient slicing by doctor, department, visit type, and outcome.
-(MediCarePlus Semantic Model.png)[MediCarePlus%20Semantic%20Model.png]
+[MediCarePlus%20Semantic%20Model.png](MediCarePlus Semantic Model.png)
