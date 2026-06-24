@@ -43,4 +43,12 @@ Wait Time by Doctor
 Treatment Duration by Visit Type
 Readmission Within 30 Days
 Department‑level Visit Volumes
-[MediCarePlus_Report.pdf](
+[MediCarePlus_Report.pdf](MediCarePlus_Report.pdf)
+
+## Real‑Time Alerts (Activator)
+Two alert rules were configured:
+AvgWaitTime > 15 minutes
+AvgPatientSatisfaction < 3.5
+
+When triggered, alerts notify me via teams so I can notify relevant stakeholders and staff to intervene immediately.
+[MediCarePlus Activator Alert.png](
