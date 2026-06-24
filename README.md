@@ -51,4 +51,35 @@ AvgWaitTime > 15 minutes
 AvgPatientSatisfaction < 3.5
 
 When triggered, alerts notify me via teams so I can notify relevant stakeholders and staff to intervene immediately.
-[MediCarePlus Activator Alert.png](
+[MediCarePlus Activator Alert.png](MediCarePlus%20Activator%20Alert.png)
+
+## Key Insights
+Doctors with the highest patient load also showed the longest wait times.
+Surgical and emergency visits had the longest treatment durations.
+Readmissions were concentrated in specific departments and visit outcomes.
+Satisfaction scores dropped sharply when wait times exceeded 15 minutes.
+Real‑time alerts enabled faster response to operational bottlenecks.
+
+## Business Recommendations
+Based on the analysis of patient wait times, treatment durations, satisfaction scores, and readmission patterns, the following recommendations can help MediCare Plus improve operational efficiency and patient experience:
+
+1. Reduce Wait Time Bottlenecks Through Doctor Workload Balancing
+High‑volume doctors consistently showed longer wait times. Redistributing patient load across available clinicians or adjusting scheduling blocks can reduce congestion and improve flow.
+
+2. Implement Fast‑Track Protocols for High‑Duration Visit Types
+Surgical consultations and emergency visits recorded the longest treatment durations. Introducing pre‑assessment steps, standardized triage, or dedicated procedure slots can shorten overall cycle time.
+
+3. Strengthen Discharge Planning for High‑Risk Visit Categories
+Readmissions were concentrated in emergency, surgical, and routine checkup visits. Enhancing discharge instructions, follow‑up reminders, and post‑visit monitoring for these groups can reduce 30‑day readmission rates.
+
+4. Monitor Satisfaction Drivers in Real Time
+Satisfaction scores dropped sharply when wait times exceeded 15 minutes. Using Activator alerts to notify supervisors when thresholds are breached enables immediate intervention and improves patient experience.
+
+5. Increase Department‑Level Visibility for Operational Decision‑Making
+Departments such as Emergency and General Medicine handle the highest visit volumes. Providing department heads with real‑time dashboards empowers them to allocate staff, adjust workflows, and respond to spikes in demand.
+
+6. Use Predictive Indicators to Prevent Service Delays
+Patterns in wait times and treatment durations can be used to forecast peak periods. Integrating predictive analytics into the dashboard can help the hospital proactively staff high‑demand windows.
+
+7. Standardize Data Capture Across Visit Types
+Variability in documentation and visit categorization can affect reporting accuracy. Standardizing data entry fields and enforcing consistent visit type definitions will improve the reliability of insights.
