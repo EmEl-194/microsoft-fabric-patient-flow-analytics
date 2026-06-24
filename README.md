@@ -32,4 +32,15 @@ Dimension Table: DoctorData
 Join Key: DoctorID
 
 This structure supports efficient slicing by doctor, department, visit type, and outcome.
-[MediCarePlus%20Semantic%20Model.png](MediCarePlus Semantic Model.png)
+[MediCarePlus Semantic Model.png](MediCarePlus%20Semantic%20Model.png)
+
+## Dashboard Overview
+The Power BI dashboard includes:
+Avg Wait Time
+Avg Patient Satisfaction
+Total Patient Visits
+Wait Time by Doctor
+Treatment Duration by Visit Type
+Readmission Within 30 Days
+Department‑level Visit Volumes
+[MediCarePlus_Report.pdf](
